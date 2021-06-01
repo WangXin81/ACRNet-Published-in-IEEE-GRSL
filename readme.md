@@ -1,14 +1,10 @@
-# ACRNet: Multilevel Feature Fusion Networks With Adaptive Channel Dimensionality Reduction for Remote Sensing Scene Classification (IEEE-GRSL)
+# ACRNet(IEEE-GRSL 2021): Multilevel Feature Fusion Networks With Adaptive Channel Dimensionality Reduction for Remote Sensing Scene Classification
 
 #### [Xin Wang](https://github.com/WangXin81) , [Lin Duan](https://github.com/devenin) , Aiye Shi , Huiyu Zhou
 
 Multilevel Feature Fusion Networks With Adaptive Channel Dimensionality Reduction for Remote Sensing Scene Classification[[Paper link\]](https://ieeexplore.ieee.org/document/9399658)
 
-## Figs
 
-![image-20210601165926181](https://github.com/WangXin81/ACRNet/blob/main/2021-06-01_171017.png)
-
-![image-20210601170003592](https://github.com/WangXin81/ACRNet/blob/main/2021-06-01_171035.png)
 
 ## Usage
 
@@ -32,13 +28,22 @@ dataset|——train
 2. run `train.py` to train the model
 3. `confusionmatrix.py` for drawing
 
+## Figs
+
+![image-20210601165926181](https://github.com/WangXin81/ACRNet/blob/main/2021-06-01_171017.png)
+
+![image-20210601170003592](https://github.com/WangXin81/ACRNet/blob/main/2021-06-01_171035.png)
+
 ## Datasets:
 
-UC Merced Land Use Dataset: http://weegee.vision.ucmerced.edu/datasets/landuse.html
+UC Merced Land Use Dataset: 
+http://weegee.vision.ucmerced.edu/datasets/landuse.html
 
-AID Dataset: https://captain-whu.github.io/AID/
+AID Dataset: 
+https://captain-whu.github.io/AID/
 
-NWPU RESISC45: http://www.escience.cn/people/JunweiHan/NWPU-RESISC45.html
+NWPU RESISC45: 
+http://www.escience.cn/people/JunweiHan/NWPU-RESISC45.html
 
 ## Environments
 
