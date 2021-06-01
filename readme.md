@@ -1,8 +1,14 @@
-# Multilevel Feature Fusion Networks With Adaptive Channel Dimensionality Reduction for Remote Sensing Scene Classification
+# Multilevel Feature Fusion Networks With Adaptive Channel Dimensionality Reduction for Remote Sensing Scene Classification (IEEE-LGRS)
 
-#### [Xin Wang](https://github.com/WangXin81) , [Lin Duan](https://github.com/devenin), Aiye Shi; Huiyu Zhou
+#### [Xin Wang](https://github.com/WangXin81) , [Lin Duan](https://github.com/devenin) , Aiye Shi , Huiyu Zhou
 
 Multilevel Feature Fusion Networks With Adaptive Channel Dimensionality Reduction for Remote Sensing Scene Classification[[Paper link\]](https://ieeexplore.ieee.org/document/9399658)
+
+## Figs
+
+![image-20210601165926181](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210601165926181.png)
+
+![image-20210601170003592](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210601170003592.png)
 
 ## Usage
 
@@ -10,21 +16,27 @@ Multilevel Feature Fusion Networks With Adaptive Channel Dimensionality Reductio
 
 ```
 dataset|——train
-	   |——Airport
-	   |——BareLand
-           |——....
-	   |——Viaduct
-       |——val	
-	   |——Airport
-	   |——BareLand
-           |——....
-	   |——Viaduct
+			|——Airport
+			|——BareLand
+			|——....
+			|——Viaduct
+	   |——val
+			|——Airport
+			|——BareLand
+			|——....
+			|——Viaduct
 ```
 
 
 
 2. run `train.py` to train the model
 3. `confusionmatrix.py` for drawing
+
+## Datasets:
+
+UC Merced Land Use Dataset: http://weegee.vision.ucmerced.edu/datasets/landuse.html
+
+AID Dataset: https://captain-whu.github.io/AID/
 
 ## Environments
 
