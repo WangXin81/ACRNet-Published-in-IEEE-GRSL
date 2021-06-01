@@ -38,6 +38,8 @@ UC Merced Land Use Dataset: http://weegee.vision.ucmerced.edu/datasets/landuse.h
 
 AID Dataset: https://captain-whu.github.io/AID/
 
+NWPU RESISC45： http://www.escience.cn/people/JunweiHan/NWPU-RESISC45.html
+
 ## Environments
 
 1. Ubuntu 16.04
