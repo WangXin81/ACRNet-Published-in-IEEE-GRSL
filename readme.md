@@ -8,7 +8,7 @@ Multilevel Feature Fusion Networks With Adaptive Channel Dimensionality Reductio
 
 ![image-20210601165926181](https://github.com/WangXin81/ACRNet/blob/main/2021-06-01_171017.png)
 
-![image-20210601170003592](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210601170003592.png)
+![image-20210601170003592](https://github.com/WangXin81/ACRNet/blob/main/2021-06-01_171035.png)
 
 ## Usage
 
