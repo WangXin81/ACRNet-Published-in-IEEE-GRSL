@@ -10,15 +10,15 @@ Multilevel Feature Fusion Networks With Adaptive Channel Dimensionality Reductio
 
 ```
 dataset|——train
-			|——Airport
-			|——BareLand
-			|——....
-			|——Viaduct
-	   |——val
-			|——Airport
-			|——BareLand
-			|——....
-			|——Viaduct
+	   |——Airport
+	   |——BareLand
+           |——....
+	   |——Viaduct
+       |——val	
+	   |——Airport
+	   |——BareLand
+           |——....
+	   |——Viaduct
 ```
 
 
