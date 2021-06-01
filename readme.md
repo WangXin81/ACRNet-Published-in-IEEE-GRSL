@@ -1,4 +1,4 @@
-# Multilevel Feature Fusion Networks With Adaptive Channel Dimensionality Reduction for Remote Sensing Scene Classification (IEEE-LGRS)
+# ACRNet: Multilevel Feature Fusion Networks With Adaptive Channel Dimensionality Reduction for Remote Sensing Scene Classification (IEEE-GRSL)
 
 #### [Xin Wang](https://github.com/WangXin81) , [Lin Duan](https://github.com/devenin) , Aiye Shi , Huiyu Zhou
 
